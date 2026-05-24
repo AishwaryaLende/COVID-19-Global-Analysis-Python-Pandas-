@@ -31,11 +31,11 @@ The objective of this project is to clean, process, and analyze COVID-19 data to
 ## 📂 Repository Structure
 
 📦 COVID-19-Data-Analysis
-├── 📄 covid_analysis.ipynb           # Main analysis notebook
-├── 📄 covid_19_data.csv              # Dataset used for analysis
-├── 📄 README.md                      # Project documentation
-├── 📄 visualization.png              # Charts and visualization outputs
-└── 📄 requirements.txt               # Required Python libraries
+├── 📄 covid_analysis.ipynb          
+├── 📄 covid_19_data.csv - https://github.com/AishwaryaLende/COVID-19-Global-Analysis-Python-Pandas-/blob/main/corna_19_data.csv           
+├── 📄 README.md                      
+├── 📄 visualization.png              
+└── 📄 requirements.txt               
 
 ## 📈 Key Insights
 
